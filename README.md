@@ -3,3 +3,5 @@
 该项目为实现人声和非人声的实时二分类检测而存在
 
 This project focuses on real-time binary classification of human speech and non-speech audio.
+
+知乎链接:https://zhuanlan.zhihu.com/p/2001658128480096546
